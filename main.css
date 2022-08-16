@@ -1,0 +1,20 @@
+.body{
+    text-align: center;
+}
+
+#counter{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+}
+
+
+.inputGroup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
